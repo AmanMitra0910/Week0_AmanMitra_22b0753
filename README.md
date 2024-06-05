@@ -4,35 +4,42 @@
 # Part 1
 
 Step 1 : Declare the required  numbers and the answers or the parts of the answer<br />
-Step 2 : Give a command to calculate  the exponential part as exp  and the substraction part as sub , and then use them to get the result.
-Step 3 : print the result statement.
-Step 4 : finally , end the program.
+Step 2 : Give a command to calculate  the exponential part as exp  and the substraction part as sub , and then use them to get the result.<br />
+Step 3 : print the result statement.<br />
+Step 4 : finally , end the program.<br />
 
 # Part 2
 
-Step 1 : Declare the required  numbers and the answers or the parts of the answer
-Step 2 : Give a command to calculate  the exponential part as m and the multiplication part as s  
-Step 3 : Use intrinsic log and abs and cosd(degrees as input), and then use them to get the result.
-Step 4 : print the result statement.
-Step 5 : finally , end the program.
+Step 1 : Declare the required  numbers and the answers or the parts of the answer<br />
+Step 2 : Give a command to calculate  the exponential part as m and the multiplication part as s<br />
+Step 3 : Use intrinsic log and abs and cosd(degrees as input), and then use them to get the result.<br />
+Step 4 : print the result statement.<br />
+Step 5 : finally , end the program.<br />
 
 # Part 3
 
-Step 1 : Declare the required numbers , constants and the answers or the parts of the answer
-Step 2 : Directly use the instrinsic function of sqrt() and formulate the result
-Step 3 : Print the result statement.
-Step 4 : Finally , end the program.
+Step 1 : Declare the required numbers , constants and the answers or the parts of the answer<br />
+Step 2 : Directly use the instrinsic function of sqrt() and formulate the result<br />
+Step 3 : Print the result statement.<br />
+Step 4 : Finally , end the program.<br />
 
 # Question 2
 
-Step 1 : Declare an array of inputs and some more required numbers.
-Step 2 : Now give values to the input array.
-Step 3 : use a do loop, in which make an if-block such that we can use the function.
-Step 4 : Before closing the loop print the result statement , such that we can get a result of each the inputs from the input array.
-Step 5 : End the do loop , and end the program.
+Step 1 : Declare an array of inputs and some more required numbers.<br />
+Step 2 : Now give values to the input array.<br />
+Step 3 : use a do loop, in which make an if-block such that we can use the function.<br />
+Step 4 : Before closing the loop print the result statement , such that we can get a result of each the inputs from the input array.<br />
+Step 5 : End the do loop , and end the program.<br />
 
 # Question 3
 
-Step 1 : Declare required variables and numbers and temporary results of the factorials.
-Step 2 : Write an input statement using read().
-Step 3 : Firstly , for a factorial, use an if-block
+Step 1 : Declare required variables and numbers and temporary results of the factorials.<br />
+Step 2 : Write an input statement using read().<br />
+Step 3 : Firstly , for a factorial, use an if-block , to make an exclusive case for zero  and for the else case we solve using a do-while loop , in which we multiply the number by its consecutive descending order till it decreases to 1, and then print out a solution statement.<br />
+Step 4 : Secondly , for a double factorial, use an if block for even numbers , and in an else block , using a do-while loop, in which we multiply the odd number by it's consecutive descending-by-2 order till it decreases to 1, and then print out the solution statement, ending the if block.<br />
+Step 5 : End the program.
+
+# Question 4
+
+# Part 1
+
