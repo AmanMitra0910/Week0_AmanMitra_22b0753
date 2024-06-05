@@ -3,7 +3,7 @@
 # Question 1
 # Part 1
 
-Step 1 : Declare the required  numbers and the answers or the parts of the answer
+Step 1 : Declare the required  numbers and the answers or the parts of the answer<br />
 Step 2 : Give a command to calculate  the exponential part as exp  and the substraction part as sub , and then use them to get the result.
 Step 3 : print the result statement.
 Step 4 : finally , end the program.
