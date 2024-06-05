@@ -57,7 +57,7 @@ Step 2 : Get the desired inputs from the user.<br />
 Step 3 : Use a soon to be defined function  to get the sum required. Print the sum and also print the statement proving the value of e^x and give multiple proofs for a variable type function.<br />
 Step 4 : Use 'contains' to include the function of the summation and another important function i.e, factorial.<br />
 Step 5 : Call the required variables for the function, then use a do loop to get the summation required. then finally define the function as the summation from the do loop.<br />
-Step 6 : Call another function similar to the  factorial , using conditional statement and do loop<.br />
+Step 6 : Call another function similar to the  factorial , using conditional statement and do loop.<br />
 Step 7 : Then close the functions and finally close the program.<br />
 
 # Part 3
